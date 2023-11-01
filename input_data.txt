@@ -1,0 +1,2 @@
+https://youla.ru/all/avto-moto/avtozapchasti?attributes[zapchast_sostoyanie][0]=165659&attributes[price][to]=6000000&attributes[price][from]=500000&attributes[store_mode][0]=329478
+https://youla.ru/all/avto-moto/avtozapchasti?attributes[zapchast_sostoyanie][0]=165659&attributes[price][to]=6000000&attributes[price][from]=500000&attributes[delivery][0]=150650
